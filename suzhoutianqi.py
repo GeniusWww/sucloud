@@ -74,7 +74,7 @@ if __name__ == '__main__':
 
         yuhuaxing = Weather()
         yuhuaxing.run()
-        time.sleep(3600)
+        time.sleep(3600) #每小时运行一次
 
 
 
